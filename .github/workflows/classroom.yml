@@ -42,7 +42,8 @@ jobs:
       with:
         timeout: 10
         max-score: 10
-        setup-command: pip install numpy testbook ipykernel && python -m ipykernel install --user --name python3
+        setup-command: pip install numpy scipy pandas matplotlib jupyter ipykernel
+          pytest testbook
     - name: Autograding Reporter
       uses: classroom-resources/autograding-grading-reporter@v1
       env:
