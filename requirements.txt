@@ -1,3 +1,5 @@
 python == 3.12
 numpy
 testbook
+jupyter
+ipykernel
