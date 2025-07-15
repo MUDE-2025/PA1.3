@@ -1,4 +1,4 @@
-# Programming assignment 1.2
+# Programming assignment 1.2 GitHub submissions and VS code tricks
 
 *[CEGM1000 MUDE](http://mude.citg.tudelft.nl/)*
 
