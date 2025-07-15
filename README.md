@@ -9,8 +9,8 @@ You can preview this assignment on https://mude.citg.tudelft.nl/workbook-2025/as
 Before you can start this assignment, read the theory pages in the book: https://mude.citg.tudelft.nl/book/2025/programming/week_1_3.html
 
 In this assignment you'll make exercises on:
-1. upload files to GitHub and check for pass
-2. VS Code live share
+1. [Upload files to GitHub and check for pass](./1_upload_github.md)
+2. [VS Code live share](./2_VS_share.ipynb)
 3. Code completion in VS Code: IntelliSense
 
 You'll need to have done this to be able to make the workshop and group assignment.

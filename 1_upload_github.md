@@ -51,5 +51,17 @@ To see if you passed the PA
 1. Start in the home page of your PA 1.3 repository (should be taken there automatically after you submit the file).
 2. Click on the "Actions" tab near the top center of the page.
 3. If you recently uploaded a file you should see a yellow dot. This means your submission is being checked; it will change after the checking process is completed.
+4. If the dot turns green, you passed the PA. Probably it doesn't turn green because you didn't start the second part of this assignment.
+
+![Passed PA](https://files.mude.citg.tudelft.nl/passed_notebook.png)
+
+If the dot turns red with an "x" it means your PA does not meet the requirements. If this happens, you can find more details by clicking on the workflow:
+
+![Failed PA](https://files.mude.citg.tudelft.nl/failed_notebook.png)
+
+Clicking on `run-autograding-tests` gives you an overview of which parts you failed and if you open the individual checks some more details. E.g. in the figure below, 0 points are scored because 'Check for file_to_upload.md' gives `file_to_upload.md not found`.
+
+![Failed PA details](https://files.mude.citg.tudelft.nl/failed_notebook_2.png)
+
 
 > Copyright 2025 MUDE, Delft University of Technology. This work is licensed under a CC BY 4.0 License

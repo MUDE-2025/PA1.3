@@ -25,9 +25,19 @@ jobs:
         command: if [ -f "file_to_upload.md" ]; then echo "file_to_upload.md exists"; else echo "file_to_upload.md not found"; exit 1; fi
         timeout: 10
         max-score: 10
+    - name: Check notebook
+      id: check-notebook
+      uses: classroom-resources/autograding-command-grader@v1
+      with:
+        test-name: Check notebook
+        setup-command: pip install numpy scipy pandas matplotlib jupyter ipykernel pip
+        command: jupyter nbconvert --execute 2_VS_share.ipynb --to html
+        timeout: 10
+        max-score: 10
     - name: Autograding Reporter
       uses: classroom-resources/autograding-grading-reporter@v1
       env:
         CHECK-FILE_RESULTS: "${{steps.check-file.outputs.result}}"
+        CHECK-NOTEBOOK_RESULTS: "${{steps.check-notebook.outputs.result}}"
       with:
-        runners: check-file
+        runners: check-file, check-notebook
