@@ -4,19 +4,20 @@
 
 *Written by: Tom van Woudenberg*
 
-You can preview this assignment on https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.2/README.html. You can obtain your personal repository for submission on: 
+You can preview this assignment on https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.2/README.html. You can obtain your personal repository for submission on: TBD
 
 Before you can start this assignment, read the theory pages in the book: https://mude.citg.tudelft.nl/book/2025/programming/week_1_3.html
 
 In this assignment you'll make exercises on:
 1. [Upload files to GitHub and check for pass](./1_upload_github.md)
 2. [VS Code live share](./2_VS_share.ipynb)
-3. Code completion in VS Code: IntelliSense
+3. [Code completion in VS Code: IntelliSense](./3_IntelliSense.ipynb)
 
 You'll need to have done this to be able to make the workshop and group assignment.
 
 You pass this PA if you:
 - Uploaded a dummy file as part of exercise 1
+- Complete the two tasks in exercise 3
 
 For the fundamental programming concepts there are two exercises:
 
