@@ -17,7 +17,8 @@ You'll need to have done this to be able to make the workshop and group assignme
 
 You pass this PA if you:
 - Uploaded a dummy file as part of exercise 1
-- Complete the two tasks in exercise 3
+- The notebook of exercise 2 runs without errors
+- Complete the two tasks in exercise 3 successfully
 
 For the fundamental programming concepts there are two exercises:
 
