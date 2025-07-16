@@ -4,7 +4,9 @@
 
 *Written by: Tom van Woudenberg*
 
-You can preview this assignment on https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.2/README.html. You can obtain your personal repository for submission on: TBD
+*Due: `<day of week>`, `<month>` `<day>`, `<year>`.*
+
+You can preview this assignment on https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.3/README.html. You can obtain your personal repository for submission on: TBD
 
 Before you can start this assignment, read the theory pages in the book: https://mude.citg.tudelft.nl/book/2025/programming/week_1_3.html
 
