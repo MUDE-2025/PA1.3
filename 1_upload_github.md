@@ -1,9 +1,5 @@
 # Upload files to GitHub and check for pass
 
-*[CEGM1000 MUDE](http://mude.citg.tudelft.nl/)*
-
-*Written by: Tom van Woudenberg, Robert Lanzafame and Jialei Ding*
-
 You'll be assigned repositories on GitHub for the assignments to be delivered. We will learn more about Git, GitHub and repositories next week. For now, we will simply be using it as a place to download and upload files, and to check whether you succeeded the PA. Only you (and your fellow group members for group assignments) and your teachers have access to this repository.
 
 To work on the assignment, you are expected to first download the files from the repository, then work in the notebook. When you have finished the activities, you'll upload your files back to the GitHub repository online. We'll learn a smarter way to do this next week, but this will work for now.
@@ -64,4 +60,4 @@ Clicking on `run-autograding-tests` gives you an overview of which parts you fai
 ![Failed PA details](https://files.mude.citg.tudelft.nl/failed_notebook_2.png)
 
 
-> Copyright 2025 MUDE, Delft University of Technology. This work is licensed under a CC BY 4.0 License
+> By Tom van Woudenberg, Robert Lanzafame and Jialei Ding, Delft University of Technology. CC BY 4.0, more info [on the Credits page of Workbook](https://mude.citg.tudelft.nl/workbook-2025/credits.html).

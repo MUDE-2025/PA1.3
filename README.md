@@ -1,11 +1,5 @@
 # Programming assignment 1.2 GitHub submissions and VS code tricks
 
-*[CEGM1000 MUDE](http://mude.citg.tudelft.nl/)*
-
-*Written by: Tom van Woudenberg*
-
-*Due: `<day of week>`, `<month>` `<day>`, `<year>`.*
-
 You can preview this assignment on https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.3/README.html. You can obtain your personal repository for submission on: TBD
 
 Before you can start this assignment, read the theory pages in the book: https://mude.citg.tudelft.nl/book/2025/programming/week_1_3.html
@@ -29,4 +23,4 @@ For the fundamental programming concepts there are two exercises:
 
 These exercises on fundamental programming concepts are not obligatory. If you struggle with one of the topics from the programming fundamentals, you're strongly advised to go through the linked reference materials by yourself. During the programming tutorial on Tuesday these steps will be demonstrated too.
 
-> Copyright 2025 MUDE, Delft University of Technology. This work is licensed under a CC BY 4.0 License
+> By Tom van Woudenberg, Delft University of Technology. CC BY 4.0, more info [on the Credits page of Workbook](https://mude.citg.tudelft.nl/workbook-2025/credits.html).
