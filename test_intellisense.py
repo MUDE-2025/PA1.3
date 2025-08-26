@@ -2,7 +2,7 @@ from testbook import testbook
 import numpy as np
 
 def test_values():
-    with testbook('3_IntelliSense.ipynb', execute=True) as tb:
+    with testbook('2_IntelliSense.ipynb', execute=True) as tb:
         array1 = tb.value('list(array1)')
         assert array1[0]==4.0, f"array1[0]={array1[0]} of task 3.1 is not equal to 4"
 
