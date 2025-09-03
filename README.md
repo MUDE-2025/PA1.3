@@ -11,8 +11,8 @@ In this assignment you'll make exercises on:
 You'll need to have done this to be able to make the workshop and group assignment.
 
 You pass this PA if you:
-- The notebook of exercise 2 runs without errors
-- Complete the two tasks in exercise 3 successfully
+- The notebook of exercise 1 runs without errors
+- Complete the two tasks in exercise 2 successfully
 
 For the fundamental programming concepts there are two exercises:
 
