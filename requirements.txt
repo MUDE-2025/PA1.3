@@ -4,3 +4,4 @@ testbook
 jupyter
 ipykernel
 matplotlib
+pandas
