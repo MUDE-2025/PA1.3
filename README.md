@@ -1,13 +1,24 @@
-# Programming assignment 1.3
+# Programming assignment 1.2VS code tricks
 
-*[CEGM1000 MUDE](http://mude.citg.tudelft.nl/)*
+You can preview this assignment on https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.3/README.html. You can obtain your personal repository for submission on: TBD
 
-*Written by: `<author(s)>`*
+Before you can start this assignment, read the theory pages in the book: https://mude.citg.tudelft.nl/book/2025/programming/week_1_3.html
 
-*Due: `<day of week>`, `<month>` `<day>`, `<year>`.*
+In this assignment you'll make exercises on:
+1. [VS Code live share](./1_VS_share.ipynb)
+2. [Code completion in VS Code: IntelliSense](./2_IntelliSense.ipynb)
 
-You can access this assignment with the following link: `classroom.github.com/a/<xxxxxxx>`.
+You'll need to have done this to be able to make the workshop and group assignment.
 
-`<This repository contains source file for the assignment and will be used a source for student repositories and in the workbook. Replace this README with appropriate information describing the file types and how it should be submitted in case of a programming or workshop assignment.>`
+You pass this PA if you:
+- The notebook of exercise 2 runs without errors
+- Complete the two tasks in exercise 3 successfully
 
-> Copyright 2025 MUDE, Delft University of Technology. This work is licensed under a CC BY 4.0 License
+For the fundamental programming concepts there are two exercises:
+
+4. Modules
+5. Numpy
+
+These exercises on fundamental programming concepts are not obligatory. If you struggle with one of the topics from the programming fundamentals, you're strongly advised to go through the linked reference materials by yourself. During the programming tutorial on Tuesday these steps will be demonstrated too.
+
+> By Tom van Woudenberg, Delft University of Technology. CC BY 4.0, more info [on the Credits page of Workbook](https://mude.citg.tudelft.nl/workbook-2025/credits.html).
