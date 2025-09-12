@@ -1,4 +1,4 @@
-# Programming assignment 1.2 VS code tricks
+# Programming assignment 1.2 VS Code Power Moves
 
 You can preview this assignment on https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.3/README.html. You can obtain your personal repository for submission on: https://classroom.github.com/a/3DiBDRzA
 
