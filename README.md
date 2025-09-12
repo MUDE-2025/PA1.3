@@ -21,4 +21,4 @@ For the fundamental programming concepts there are two exercises:
 
 These exercises on fundamental programming concepts are not obligatory. If you struggle with one of the topics from the programming fundamentals, you're strongly advised to go through the linked reference materials by yourself. During the programming tutorial on Tuesday these steps will be demonstrated too.
 
-> By Tom van Woudenberg, Delft University of Technology. CC BY 4.0, more info [on the Credits page of Workbook](https://mude.citg.tudelft.nl/workbook-2025/credits.html).
+> By Tom van Woudenberg, Robert Lanzafame and Ronald Brinkgreve, Delft University of Technology. CC BY 4.0, more info [on the Credits page of Workbook](https://mude.citg.tudelft.nl/workbook-2025/credits.html).
