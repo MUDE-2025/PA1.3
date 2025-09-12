@@ -1,8 +1,6 @@
-# Programming assignment 1.2 VS Code Power Moves
+# Programming assignment 1.3 VS Code Power Moves
 
 You can preview this assignment on https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.3/README.html. You can obtain your personal repository for submission on: https://classroom.github.com/a/3DiBDRzA
-
-Before you can start this assignment, read the theory pages in the book: https://mude.citg.tudelft.nl/book/2025/programming/week_1_3.html
 
 In this assignment you'll make exercises on:
 1. [VS Code live share](./1_VS_share.ipynb)
